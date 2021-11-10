@@ -11,6 +11,7 @@ namespace XUnitTestProject
         {
             //PromotionEngineController
             Assert.Equal(1, 1);
+            Assert.Equal(1, 1);
         }
     }
 }
